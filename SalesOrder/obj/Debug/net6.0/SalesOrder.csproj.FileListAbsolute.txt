@@ -1,0 +1,5 @@
+C:\Users\Renan Torres\source\repos\SalesOrder\SalesOrder\obj\Debug\net6.0\SalesOrder.csproj.AssemblyReference.cache
+C:\Users\Renan Torres\source\repos\SalesOrder\SalesOrder\obj\Debug\net6.0\SalesOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan Torres\source\repos\SalesOrder\SalesOrder\obj\Debug\net6.0\SalesOrder.AssemblyInfoInputs.cache
+C:\Users\Renan Torres\source\repos\SalesOrder\SalesOrder\obj\Debug\net6.0\SalesOrder.AssemblyInfo.cs
+C:\Users\Renan Torres\source\repos\SalesOrder\SalesOrder\obj\Debug\net6.0\SalesOrder.csproj.CoreCompileInputs.cache
